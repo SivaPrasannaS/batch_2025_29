@@ -1,0 +1,18 @@
+# Maven build output (created whenever a springapp project is built or tested)
+target/
+
+# Log files written by the Week 11 logging questions when they run
+logs/
+*.log
+
+# Compiled classes
+*.class
+
+# Editor and IDE settings
+.vscode/
+.idea/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
